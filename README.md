@@ -1,4 +1,6 @@
-#  Frontend Code Challenge
+#  Tweets App Server
+
+Use it together with Tweets App
 
 ## Setup
 
